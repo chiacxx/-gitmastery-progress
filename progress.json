@@ -260,5 +260,14 @@
       "Something bad happened"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787664687.849097,
+    "completed_at": 1787664690.417574,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
   }
 ]
